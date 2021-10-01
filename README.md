@@ -17,6 +17,6 @@ Se nos fue dado dos problemas que se debian resolver con comandos que fueren inv
 Se pidio investigar sobre las variables de entorno y de como estas se podian afectar en distintas capas (shell y sub-shell)
 
 ###### F)
-Se solicito crear un script BASH y darle permisos de ejecución, esto con el fin de resolver algunas solicitudes.
+Se solicito crear un script BASH y darle permisos de ejecución, esto con el fin de resolver algunas solicitudes.  
 ***Ejemplo de ejecución***
 ./listar.sh 1 2 3 a b c
