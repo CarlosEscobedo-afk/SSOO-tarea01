@@ -18,5 +18,5 @@ Se pidio investigar sobre las variables de entorno y de como estas se podian afe
 
 ###### F)
 Se solicito crear un script BASH y darle permisos de ejecución, esto con el fin de resolver algunas solicitudes.  
-***Ejemplo de ejecución***
+***Ejemplo de ejecución:***  
 ./listar.sh 1 2 3 a b c
